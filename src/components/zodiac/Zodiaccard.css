@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.zodiac {
+  background-color: blue;
+  margin: 20px;
+  height: 150px;
+  width: 200px;
+  border-radius: 10px;
+  font-family: 'space-and-astronomy';
+}
+
+.name {
+  margin: 0px;
+}
+
+.date {
+  margin: 0px;
+}

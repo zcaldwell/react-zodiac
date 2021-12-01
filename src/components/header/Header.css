@@ -1,6 +1,9 @@
 header {
   display: flex;
   flex-direction: row;
-  background-color: aqua;
-  height: 30px;
+  background-color: #bcedf6;
+  height: 40px;
+  font-family: 'space and astronomy';
+  align-items: center;
+  font-weight: bold;
 }

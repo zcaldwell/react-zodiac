@@ -5,12 +5,16 @@ main {
 }
 
 .zodiac {
-  background-color: blue;
+  background-color: #6b7fd7;
   margin: 20px;
-  height: 150px;
+  height: 175px;
   width: 200px;
   border-radius: 10px;
-  font-family: 'space-and-astronomy';
+  font-family: 'space and astronomy';
+  color: #ddfbd2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .name {

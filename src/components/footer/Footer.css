@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  background-color: #bcedf6;
+  height: 40px;
+  font-family: 'space and astronomy';
+  font-weight: bold;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+}
